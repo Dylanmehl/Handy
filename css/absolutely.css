@@ -186,6 +186,7 @@ a.tooltips {
   display: inline;
   cursor: pointer;
 }
+
 a.tooltips span {
   position: absolute;
   width:200px;
